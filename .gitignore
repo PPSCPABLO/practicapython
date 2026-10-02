@@ -4,3 +4,5 @@ __pycache__/
 venv
 
 *.png
+
+//$ git config alias.acp '!f() { git add . && git commit -m "$1" $$ git push; }; f'   
