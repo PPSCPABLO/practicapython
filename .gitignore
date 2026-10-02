@@ -1,0 +1,6 @@
+contrasenia.python
+__pycache__/
+
+venv
+
+*.png
